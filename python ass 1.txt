@@ -1,0 +1,27 @@
+Q1:
+Twinkle, twinkle, little star, \n\tHow I wonder what you are!
+
+Q2:
+python --version
+
+Q3:
+import datetime as d
+x=d.datetime.now()
+print(x)
+
+Q4:
+r=int(input("enter radius: "))
+a=3.142*(r**2)
+print(a)
+
+Q5:
+f=input("enter first name: ")
+l=input("enter last name: ")
+rf="".join(reversed(f))
+rl="".join(reversed(l))
+print(rl + " " + rf)
+
+Q6:
+x=int(input("enter no 1: "))
+y=int(input("enter no 2: "))
+print(x+y)
